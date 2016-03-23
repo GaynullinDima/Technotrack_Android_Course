@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">FirstAndroidApp</string>
+
+    <string-array name="first_decade_female">
+        <item>одна</item>
+        <item>две</item>
+        <item>три</item>
+        <item>четыре</item>
+        <item>пять</item>
+        <item>шесть</item>
+        <item>семь</item>
+        <item>восемь</item>
+        <item>девять</item>
+    </string-array>
+
+    <string-array name="first_decade_male">
+        <item>один</item>
+        <item>два</item>
+        <item>три</item>
+        <item>четыре</item>
+        <item>пять</item>
+        <item>шесть</item>
+        <item>семь</item>
+        <item>восемь</item>
+        <item>девять</item>
+    </string-array>
+
+    <string-array name="second_decade">
+        <item>одиннадцать</item>
+        <item>двенадцать</item>
+        <item>тринадцать</item>
+        <item>четырнадцать</item>
+        <item>пятнадцать</item>
+        <item>шестнадцать</item>
+        <item>семнадцать</item>
+        <item>восемнадцать</item>
+        <item>девятнадцать</item>
+        <item>двадцать</item>
+    </string-array>
+
+    <string-array name="decades">
+        <item>десять</item>
+        <item>двадцать</item>
+        <item>тридцать</item>
+        <item>сорок</item>
+        <item>пятьдесят</item>
+        <item>шестьдесят</item>
+        <item>семьдесят</item>
+        <item>восемьдесят</item>
+        <item>девяносто</item>
+    </string-array>
+
+    <string-array name="hundreds">
+        <item>сто</item>
+        <item>двести</item>
+        <item>триста</item>
+        <item>четыреста</item>
+        <item>пятьсот</item>
+        <item>шестьсот</item>
+        <item>семьсот</item>
+        <item>восемьсот</item>
+        <item>девятьсот</item>
+    </string-array>
+
+    <string-array name="thousands_forms">
+        <item>тысяча</item>
+        <item>тысячи</item>
+        <item>тысяч</item>
+    </string-array>
+
+    <string-array name="millions_forms">
+        <item>миллион</item>
+        <item>миллиона</item>
+        <item>миллионов</item>
+    </string-array>
+
+</resources>
