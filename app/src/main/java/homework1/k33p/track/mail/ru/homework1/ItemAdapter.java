@@ -23,7 +23,7 @@ public class ItemAdapter extends ArrayAdapter<Item> {
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.item_list, parent, false);
         }
 
-        TextView text = (TextView) convertView.findViewById(R.id.element_text);
+        TextView text = (TextView) convertView.findViewById(R.id.item_text);
         if ((position & 1) == 1) {
             convertView.setBackgroundResource(R.color.oddColor);
         } else {
