@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">AndroidCourse1_Homework2</string>
-    <string name="BASE_URL">http://mobevo.ext.terrhq.ru/</string>
-    <string name="DATA_URL">http://mobevo.ext.terrhq.ru/shr/j/ru/technology.js</string>
-    <string name="error_load">Unable to load data from server</string>
-    <string name="error_read">Unable to read data from server</string>
-    <string name="error_parse">Unable to parse data from server</string>
-</resources>
